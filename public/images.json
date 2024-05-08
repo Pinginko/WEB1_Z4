@@ -1,0 +1,101 @@
+{
+    "images": [
+      {
+        "name": "Bratislava výhľad",
+        "description": "Výhľad mesta",
+        "url": "/~xkubala/sivaStena/photos/blava1.jpg",
+        "timestamp": "2022-10-05",
+        "latitude": 48.134307, 
+        "longitude": 17.106000
+      },
+      {
+        "name": "ESET",
+        "description": "Eset vnútro",
+        "url": "/~xkubala/sivaStena/photos/blava2.jpg",
+        "timestamp": "2022-03-23",
+        "latitude": 48.134307, 
+        "longitude": 17.106000
+      },
+      {
+        "name": "Bratislava výhľad 2",
+        "description": "Výhľad mesta 2",
+        "url": "/~xkubala/sivaStena/photos/blava3.jpg",
+        "timestamp": "2020-11-01",
+        "latitude": 48.134307, 
+        "longitude": 17.106000
+      },
+      {
+        "name": "Florence 1",
+        "description": "Výhľad mesta",
+        "url": "/~xkubala/sivaStena/photos/florence1.jpg",
+        "timestamp": "2019-06-18",
+        "latitude": 43.77087,
+        "longitude":11.2561
+      },
+      {
+        "name": "Florence 2",
+        "description": "Maľba umelca v múzeu",
+        "url": "/~xkubala/sivaStena/photos/florence2.jpg",
+        "timestamp": "2019-06-18",
+        "latitude": 43.76934,
+        "longitude":11.25538
+      },
+      {
+        "name": "Martin",
+        "description": "Zimný šadión",
+        "url": "/~xkubala/sivaStena/photos/ihrisko_martin.jpg",
+        "timestamp": "2018-06-20",
+        "latitude":49.074176,
+        "longitude":18.912643 
+      },
+      {
+        "name": "Kežmarok1",
+        "description": "Príroda z iného pohľadu",
+        "url": "/~xkubala/sivaStena/photos/kezmarok1.jpg",
+        "timestamp": "2019-10-02",
+        "latitude":49.126720, 
+        "longitude":20.425776
+      },
+      {
+        "name": "Kežmarok2",
+        "description": "Mystické dievča",
+        "url": "/~xkubala/sivaStena/photos/kezmarok2.jpg",
+        "timestamp": "2021-08-17",
+        "latitude":49.125223,
+        "longitude":20.430058
+      },
+      {
+        "name": "Kežmarok3",
+        "description": "Čarovné dievča",
+        "url": "/~xkubala/sivaStena/photos/kezmarok3.jpg",
+        "timestamp": "2021-09-04",
+        "latitude":49.137597,
+        "longitude":20.439615
+      },
+      {
+        "name": "Poprad1",
+        "description": "Neidentifikovaný muž",
+        "url": "/~xkubala/sivaStena/photos/poprad1.jpg",
+        "timestamp": "2020-03-12",
+        "latitude":49.056287,
+        "longitude":20.280154 
+
+      },
+      {
+        "name": "Kežmarok4",
+        "description": "Krásne dievča",
+        "url": "/~xkubala/sivaStena/photos/Kezmarok4.jpg",
+        "timestamp": "2021-08-29",
+        "latitude":49.139530,
+        "longitude":20.433929 
+      },
+      {
+        "name": "Štrbské Pleso",
+        "description": "Pekná príroda",
+        "url": "/~xkubala/sivaStena/photos/Štrbske_Pleso1.jpg",
+        "timestamp": "2019-05-11",
+        "latitude":49.121797,
+        "longitude":20.057496 
+      }
+    ]
+  }

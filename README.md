@@ -1,5 +1,5 @@
 # vueZ4
-Frontend of gallerry and using map api.
+Frontend of gallery with images and using map api.
 
 
 ## Customize configuration
